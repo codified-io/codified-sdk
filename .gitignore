@@ -1,0 +1,6 @@
+__pycache__
+.devbox
+.venv
+build
+devbox.lock
+**.egg-info
